@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<application>
+    <configure>
+        <hostname>192.168.1.191</hostname>
+        <port>3306</port>
+        <username>root</username>
+        <password>user</password>
+        <dbname>password</dbname>
+    </configure>
+</application>
